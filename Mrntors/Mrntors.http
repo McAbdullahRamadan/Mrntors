@@ -1,0 +1,6 @@
+@Mrntors_HostAddress = http://localhost:5139
+
+GET {{Mrntors_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
