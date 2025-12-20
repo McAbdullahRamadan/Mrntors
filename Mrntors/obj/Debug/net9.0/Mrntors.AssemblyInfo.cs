@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mrntors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3df9eb3f8d1774f709c0ff05ef036c6de1ae666")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a52e1118e1ad895eee280bb342e6963ca5266c9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mrntors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mrntors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

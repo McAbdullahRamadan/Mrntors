@@ -1,7 +1,67 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Mrntors\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926CBE77-1413-4916-9461-654777002721}|..\\Application\\Application.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38D841F-B117-4EAA-B8F3-06AD2DEAAF89}|Mrntors.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\mrntors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38D841F-B117-4EAA-B8F3-06AD2DEAAF89}|Mrntors.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38D841F-B117-4EAA-B8F3-06AD2DEAAF89}|Mrntors.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\mrntors\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B38D841F-B117-4EAA-B8F3-06AD2DEAAF89}|Mrntors.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\storyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\postmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\conversationparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\entities\\business\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C6E99D-2A89-4012-9901-B814C0931956}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\infrastructure\\repo\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C6E99D-2A89-4012-9901-B814C0931956}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\infrastructure\\servicesimp\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926CBE77-1413-4916-9461-654777002721}|..\\Application\\Application.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0E906E-926B-43E9-BB67-8CEBFCE0A15A}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C6E99D-2A89-4012-9901-B814C0931956}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +69,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +82,253 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:31:26.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Mrntors\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Mrntors\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-19T10:24:36.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Follow.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Follow.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Follow.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\Follow.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:16:55.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Notification.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Notification.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Notification.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\Notification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:21:51.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Post.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Post.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Post.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\Post.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:13:58.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostMedia.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\PostMedia.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\PostMedia.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\PostMedia.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\PostMedia.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:14:35.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Story.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Story.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Story.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\Story.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:17:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoryView.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\StoryView.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\StoryView.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\StoryView.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\StoryView.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:18:20.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Mrntors\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Mrntors\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:59:01.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Message.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Message.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Message.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:20:06.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Like.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Like.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Like.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\Like.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:16:20.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConversationParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\ConversationParticipant.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\ConversationParticipant.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\ConversationParticipant.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\ConversationParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:53:17.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Conversation.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Conversation.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Conversation.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\Conversation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:18:53.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Comment.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Comment.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Comment.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Business\\Comment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:15:18.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Infrastructure\\Repo\\Repositories.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repo\\Repositories.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Infrastructure\\Repo\\Repositories.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repo\\Repositories.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:45:20.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Infrastructure\\ServicesImp\\Services.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\ServicesImp\\Services.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Infrastructure\\ServicesImp\\Services.cs",
+              "RelativeToolTip": "..\\Infrastructure\\ServicesImp\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:46:33.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Application\\Class1.cs",
+              "RelativeToolTip": "..\\Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:56:17.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Class1.cs",
+              "RelativeToolTip": "..\\Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:55:48.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:55:07.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
