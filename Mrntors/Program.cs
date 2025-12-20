@@ -1,7 +1,6 @@
-using Application.Interfaces;
+
 using Domain.Entities.System;
 using Infrastructure;
-using Infrastructure.Repo;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -39,7 +38,7 @@ builder.Services.AddAuthorization();
 #endregion
 
 
-builder.Services.AddScoped(typeof(IRepository<>), typeof(Repositories<>));
+
 
 // Add services to the container.
 
