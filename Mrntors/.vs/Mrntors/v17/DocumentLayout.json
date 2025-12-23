@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Mrntors\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{926CBE77-1413-4916-9461-654777002721}|..\\Application\\Application.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\application\\bases response\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926CBE77-1413-4916-9461-654777002721}|..\\Application\\Application.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\application\\bases response\\dataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B38D841F-B117-4EAA-B8F3-06AD2DEAAF89}|Mrntors.csproj|c:\\users\\mohamed\\source\\repos\\mcabdullahramadan\\mrntors\\mrntors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B38D841F-B117-4EAA-B8F3-06AD2DEAAF89}|Mrntors.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,7 +63,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -72,8 +78,38 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "ResponseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Application\\Bases Response\\ResponseHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Bases Response\\ResponseHandler.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Application\\Bases Response\\ResponseHandler.cs",
+              "RelativeToolTip": "..\\Application\\Bases Response\\ResponseHandler.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv3MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:58:33.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Application\\Bases Response\\DataResponse.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Bases Response\\DataResponse.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Application\\Bases Response\\DataResponse.cs",
+              "RelativeToolTip": "..\\Application\\Bases Response\\DataResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:31:23.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PostMedia.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\PostMedia.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\PostMedia.cs",
@@ -85,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Story.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Story.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Story.cs",
@@ -97,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StoryView.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\StoryView.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\StoryView.cs",
@@ -109,24 +145,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Mrntors\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Mrntors\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-19T09:59:01.05Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Notification.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Notification.cs",
@@ -138,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Post.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Post.cs",
@@ -150,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Follow.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Follow.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Follow.cs",
@@ -162,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Mrntors\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -174,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Message.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Message.cs",
@@ -186,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Like.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Like.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Like.cs",
@@ -198,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ConversationParticipant.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\ConversationParticipant.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\ConversationParticipant.cs",
@@ -210,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Conversation.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Conversation.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Conversation.cs",
@@ -222,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Domain\\Entities\\Business\\Comment.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Business\\Comment.cs",
@@ -234,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Application\\Class1.cs",
               "RelativeDocumentMoniker": "..\\Application\\Class1.cs",
@@ -246,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\McAbdullahRamadan\\Mrntors\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Class1.cs",
@@ -255,6 +287,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-19T08:55:07.911Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
